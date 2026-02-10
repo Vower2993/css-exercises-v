@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.hmm{
+    background-color: black;
+    color: white;
+   
+}
+.him{
+    background-color: yellow;
+}
+.hmm,.him{
+     font-family: "Helvetica","Times New Roman",sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
